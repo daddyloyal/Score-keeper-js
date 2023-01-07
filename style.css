@@ -1,0 +1,16 @@
+body{
+    display: grid;
+    justify-content: center;
+    padding-top: 4em;
+}
+form {
+    height: 50vh;
+    width: fit-content;
+    padding: 25px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    display: block;
+}
+.winner {
+    color: green;
+}
